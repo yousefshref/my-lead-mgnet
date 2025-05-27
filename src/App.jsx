@@ -20,6 +20,10 @@ const App = () => {
       name: "shopify",
       url: "https://drive.google.com/drive/folders/1FKibJTeLnBzap5sFaAEq6byRAmI9Gb_F?usp=drive_link",
     },
+    {
+      name: "clonetiktokvideo",
+      url: "https://drive.google.com/drive/folders/1O-AivA5uUhV-4yoYZvAYtm-8XEYvm3uH?usp=drive_link",
+    },
   ];
 
   // Get URL parameters
